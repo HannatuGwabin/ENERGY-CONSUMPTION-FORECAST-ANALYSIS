@@ -41,4 +41,4 @@ MAPE = 9%
 Accuracy = 91%
   
 # RECOMMENDATION
-I recommend the Simple Linear Regression approach because it is 91% accurate, and has an error of 9%, which implies that anytime we use the Naive approach in the coming year 2022, there is going to be an error of 9% and a deviation of 976.41. SLR has a lower MSE (Mean Squared Error) of 1,439,943,32. The lower the MSE the better.
+I recommend the Simple Linear Regression approach due to it's 91% accuracy and error rate of 9%. which implies that anytime we use the Simple Linear Regression approach in the coming year 2022, there is going to be an error of 9% and a deviation of 976.41. Additionally, SLR has a superior performance in terms of MSE (Mean Squared Error), with a lower value of 1,439,943,32. A lower MSE value is desirable as it reflects a better model fit.
